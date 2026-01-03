@@ -1,12 +1,4 @@
 from typing import Dict
-from consts import (
-    CHANNELS,
-    USERS,
-    GET,
-    POST,
-    UNDEF,
-    GENERIC_BLOCKS,
-)
 from utils.schemas import MessageParsedBody
 
 class MessageRouter:
